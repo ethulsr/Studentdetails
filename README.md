@@ -1,4 +1,4 @@
-# student_details_week_5
+# student_details
 
 A new Flutter project.
 
